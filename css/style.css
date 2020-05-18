@@ -1,0 +1,91 @@
+nav, footer {
+    background-color: black;
+}
+
+h2 {
+    padding-bottom:20px;
+}
+
+h6 {
+    padding-top:5px;
+}
+
+.pink {
+    color: #dc3545;
+}
+
+img {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width:100%;
+}
+
+section.container-fluid{
+    padding:10% 10% 0% 10%;
+}
+
+section#accueil {
+    background-image: url(../images/fond.jpg);
+    background-repeat: no-repeat;
+    padding:10% 10% 10% 10%;
+}
+
+section#nosagents{
+    padding:10% 10% 10% 10%;
+}
+
+.jumbotron {
+    background-color: #e9ecefd0 ;
+    padding-top:10%;
+    padding-bottom: 10% ;
+}
+
+.card {
+    border:none;
+}
+
+.card-body{
+    padding:10px 0 0 0;
+}
+
+.card-body dt a {
+    color: grey;
+    font-weight:normal;
+    text-decoration: none;
+}
+
+.bi-geo-alt {
+    position:relative;
+    top:-4px;
+}
+
+.bi-phone {
+    position:relative;
+    top:-4px;
+}
+
+.card-body dd{
+    font-weight:bold;
+}
+
+
+img.socialmedia {
+    width:25%;
+    max-width: 64px;
+}
+
+.footcontent {
+    padding: 20px;
+}
+
+@media (max-width:992px){
+
+.btn {
+    margin:auto;
+    width : 50%;
+    margin-top: 20px;
+}
+
+
+}
