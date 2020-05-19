@@ -64,9 +64,14 @@ section#nosagents{
     top:-4px;
 }
 
+.bi-envelope-fill{
+    position:relative;
+    top:-2px;
+}
+
 .bi-phone {
     position:relative;
-    top:-4px;
+    top:-3px;
 }
 
 .card-body dd{
@@ -75,11 +80,6 @@ section#nosagents{
 
 .royal{
     max-width:600px;
-}
-
-img.socialmedia {
-    width:25%;
-    max-width: 64px;
 }
 
 .footcontent {
@@ -98,4 +98,22 @@ section#accueil {
     padding:20% 10% 10% 10%;
 }
 
+}
+
+i{ font-size:4em;}
+
+.facebookcolor {
+    color : #3b5999;
+}
+
+.twittercolor {
+    color: #55acee;
+}
+
+.googlecolor {
+    color : #dd4b39;
+}
+
+.linkedincolor {
+    color : #0077B5;
 }
