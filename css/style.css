@@ -1,3 +1,7 @@
+body {
+    overflow:scroll;
+}
+
 nav, footer {
     background-color: black;
 }
@@ -69,6 +73,9 @@ section#nosagents{
     font-weight:bold;
 }
 
+.royal{
+    max-width:600px;
+}
 
 img.socialmedia {
     width:25%;
