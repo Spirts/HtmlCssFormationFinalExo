@@ -86,20 +86,6 @@ section#nosagents{
     padding: 20px;
 }
 
-@media (max-width:992px){
-
-.btn {
-    margin:auto;
-    width : 50%;
-    margin-top: 20px;
-}
-
-section#accueil {
-    padding:20% 10% 10% 10%;
-}
-
-}
-
 i{ font-size:4em;}
 
 .facebookcolor {
@@ -116,4 +102,18 @@ i{ font-size:4em;}
 
 .linkedincolor {
     color : #0077B5;
+}
+
+@media (max-width:992px){
+
+.btn {
+    margin:auto;
+    width : 50%;
+    margin-top: 20px;
+}
+
+section#accueil {
+    padding:20% 10% 10% 10%;
+}
+
 }
